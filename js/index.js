@@ -2,7 +2,7 @@
 
 var urlCats = "https://api.thecatapi.com/v1/images/search?limit=40"; //50
 //var urlCats = "https://thecatapi.com/v1/images?api_key=m00qjx";
-var urlCategorias = "http://localhost:3000/categorias";
+var urlCategorias = "https://github.com/PazRubio/Gatos/blob/master/json/categorias.json";
 //var urlCategorias = "https://api.thecatapi.com/v1/categories";
 var urlCambioCategoria = urlCats;
 var numPagina = 0;
