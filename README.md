@@ -17,3 +17,9 @@ Implementar la funcionalidad de categorias de gatos o perros usando la tecnolog�
 Tras comprobar esta API, hemos visto que el máximo por categoria de gatos es de unas 40 imágenes, y hemos decidido mostrar 8 por página. Así, dependiendo del número por categoría, dividimos entre 8 para tener el número de páginas, y además incluimos dos botones, "<<" y ">>" para movernos a la primera y última página.
 
 Sobre las tecnologías utilizadas, para la carga de los dos JSON, el de las imágenes en la API y el de las categorías en local, hemos utilizado AJAX: una función asíncrona que espera con dos await que esperan la carga de ambos JSON. Además, el resto de la página la creamos con DOM, logrando la visualización dinñamica de datos.
+
+#### Autoras
+
+- **Paz Rubio Rubio** - [Github](https://github.com/PazRubio)
+
+- **Gema de la Fuente Romero** - [Github](https://github.com/Gema-de-la-Fuente)
