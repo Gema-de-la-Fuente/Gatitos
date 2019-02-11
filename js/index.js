@@ -2,7 +2,7 @@
 
 var urlCats = "https://api.thecatapi.com/v1/images/search?limit=40"; //50
 //var urlCats = "https://thecatapi.com/v1/images?api_key=m00qjx";
-var urlCategorias = "https://my-json-server.typicode.com/PazRubio/Gatitos/db";
+var urlCategorias = "https://my-json-server.typicode.com/PazRubio/Gatitos/categorias";
 //var urlCategorias = "https://api.thecatapi.com/v1/categories";
 var urlCambioCategoria = urlCats;
 var numPagina = 0;
