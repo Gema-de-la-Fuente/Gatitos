@@ -49,7 +49,7 @@ function listaCategorias(){
     var categoriasInput= document.getElementById("select-categorias"),option;
     infoCategorias.forEach(function(categoria) {
         option= document.createElement("option");
-        //mejor value de id porque creo que hay que vuscar por el id de la categoria en la url
+        //mejor value de id porque creo que hay que buscar por el id de la categoria en la url
         option.setAttribute("value", categoria.id);
         option.innerHTML= categoria.name;
         categoriasInput.appendChild(option);
